@@ -1,6 +1,6 @@
 <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
   <h1>Bem-vindo à 2TP Balsa! 🚀</h1>
-  <img src="https://avatars.githubusercontent.com/u/204403245?s=400&u=60fbf0e9c8d437301cec06617e4f6e4643cea74b&v=4" alt="2TP Balsa Logo" style="width: 150px; height: 150px; margin: 20px 0;"/>
+  <img src="https://avatars.githubusercontent.com/u/204403245?s=400&u=03ce374762403df272d383e0be563e2302974e5f&v=4" alt="2TP Balsa Logo" style="width: 150px; height: 150px; margin: 20px 0;"/>
   <p><em>Construindo o Melhor Software Possível</em></p>
 </div>
 
